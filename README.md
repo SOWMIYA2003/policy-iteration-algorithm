@@ -60,7 +60,6 @@ def policy_improvement(V, P, gamma=1.0):
 
     return new_pi
 ```
-
 ## POLICY ITERATION FUNCTION
 ```
 def policy_iteration(P, gamma=1.0,theta=1e-10):
